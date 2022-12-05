@@ -1,5 +1,14 @@
 # Convenience-market-AI-services
+![스크린샷 2022-12-05 오후 10 56 20](https://user-images.githubusercontent.com/101313864/205654560-3e3ba890-b253-494a-9251-ae88bd1fcb4f.png)
 
 최근 전반적인 경제성장이 둔화되고 있는 상황에서도 맞벌이, 1~2인 가구의 증가, 라이프 스타일의 변화, 고령사회 등 사회 환경의 변화에 영향을 받아 식생활 라이프 스타일이 바뀌어 감에 따라 가정간편식(Home Meal Replacement ; HMR) 시장이 급성장 하고 있다.
 최근 소비자들은 환경 변화로 인해 건강에 대한 관심, 현대사회의 생활 편리성 등이 새로운 환경의 모습으로정착하고 있다. 이와 같이 현대의 소비자들은 편리함과 영양을 충족하면서 가정식을 대체할 수 있는 식문화 욕구가 증가하면서 가정간편식에 대한 시장의 규모가 폭발적으로 확대되고 있다.
-![image](https://user-images.githubusercontent.com/101313864/205651043-494a8a6b-515c-4045-b466-c54d4709f0ae.png)
+
+## 페르소나
+![스크린샷 2022-12-05 오후 10 56 37](https://user-images.githubusercontent.com/101313864/205654606-be062aca-1f82-4c08-bc17-95959d215d6f.png)
+
+## AI 기능 제안
+![스크린샷 2022-12-05 오후 10 56 58](https://user-images.githubusercontent.com/101313864/205654719-87188a37-1195-4162-ba87-2ab386499a58.png)
+
+## 고충실도 프로토타입 구현
+![스크린샷 2022-12-05 오후 10 56 48](https://user-images.githubusercontent.com/101313864/205654660-523e41f1-42bb-48f8-8f9a-4143507e80ec.png)
